@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "poek-3",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
